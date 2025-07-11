@@ -1,0 +1,9 @@
+# Solidity / Foundry
+out/
+cache/
+# Rust
+target/
+# Node
+node_modules/
+# Misc
+*.log
