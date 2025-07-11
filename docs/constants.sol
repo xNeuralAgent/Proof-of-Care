@@ -1,0 +1,2 @@
+bytes32 public constant CONSTITUTION_HASH =
+cded45b9044bf6e52ce3f24a7cdb0789a6d05291eb3f75b1f8c525c227bdb002
